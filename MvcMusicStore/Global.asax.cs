@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
+// Test
 namespace MvcMusicStore
 {
     // Note: For instructions on enabling IIS6 or IIS7 classic mode, 
